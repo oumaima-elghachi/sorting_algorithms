@@ -1,7 +1,7 @@
 /*
  * File: 101-cocktail_sort_list.c
  */
-LJHGHG
+
 #include "sort.h"
 
 void swap_node_ahead(listint_t **list, listint_t **tail, listint_t **shaker);
